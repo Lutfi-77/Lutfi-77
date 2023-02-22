@@ -6,7 +6,7 @@ Saya seorang junior developer.\
 Saat ini saya sedang mempelajari mengenai Fullstack development untuk meningkatkan kemampuan saya.
 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/Lutfi-77">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lutfi-77&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lutfi-77&layout=compact&langs_count=8&theme=algolia"/>
 </a>
