@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Perkenalkan nama saya **Mohammad Dawan Lutfi**.\
-Saya seorang **Mahasiswa** di [Universitas Nusa Mandiri](https://www.nusamandiri.ac.id/nuri/sejarah-stmik.ajax).\
+Saya Lulusan dari [Universitas Nusa Mandiri](https://www.nusamandiri.ac.id/nuri/sejarah-stmik.ajax).\
 Saya seorang junior developer.\
 Saat ini saya sedang mempelajari mengenai Fullstack development untuk meningkatkan kemampuan saya.
 
