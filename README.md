@@ -149,9 +149,9 @@ I'm currently focused on understanding **how to design backend systems properly*
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lutfi-77&show_icons=true&hide_border=true&theme=transparent" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfi-77&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
